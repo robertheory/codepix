@@ -3,7 +3,7 @@ package usecase
 import (
 	"errors"
 
-	"github.com/robertheory/codepix-go/domain/model"
+	"github.com/robertheory/codepix/domain/model"
 )
 
 type TransactionUseCase struct {

@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/robertheory/codepix-go/app/grpc"
-	"github.com/robertheory/codepix-go/infra/db"
+	"github.com/robertheory/codepix/app/grpc"
+	"github.com/robertheory/codepix/infra/db"
 )
 
 func main() {
